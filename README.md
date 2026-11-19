@@ -1,4 +1,5 @@
 Scopul aplicației: Facilitarea cumpărării mobilierului prin intermediul unei platforme digitale. Utilizatorii vor avea posibilitate să vizualizeze produse disponibile, să caute, să consulte prețurile și să adauge rpodusele dorite într-un coș de cumpărături.
+
 Membrii echipei: Tincu Diana
 
 Structura proiectului: 
